@@ -14,3 +14,4 @@ git clone https://github.com/libra/libra.git && cd libra
 ```
 ./scripts/cli/start_cli_testnet.sh
 ```
+---
